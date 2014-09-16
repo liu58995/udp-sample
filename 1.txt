@@ -1,3 +1,5 @@
 aa
 w if
 #1 modified on master
+#2 modified on branch1 after being modified on master
+#3 finished merging
